@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to My Jekyll Site
+title: Home
 ---
 
 This is my homepage, built with Jekyll and GitHub Pages.
