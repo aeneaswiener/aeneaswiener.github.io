@@ -2,4 +2,4 @@ title: My Jekyll Site
 description: Welcome to my blog!
 baseurl: ""
 url: "https://aeneaswiener.github.io"
-theme: minima
+theme: jekyll-theme-cayman
